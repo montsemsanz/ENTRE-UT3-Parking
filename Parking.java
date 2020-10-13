@@ -7,6 +7,8 @@
  * tarifa más económica
  * (leer enunciado)
  * 
+ * @author Saúl Layos Iriso
+ * 
  */
 public class Parking
 {
